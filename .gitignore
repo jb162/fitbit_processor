@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+fitbit/
+output/
+resources/
+justin_bodyweight_merge.ipynb
